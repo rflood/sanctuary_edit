@@ -122,8 +122,17 @@ require get_template_directory() . '/inc/jetpack.php';
  */
 
 function load_fonts() {
-    wp_register_style('googleFonts', 'http://fonts.googleapis.com/css?family=Arvo:400,700|Open+Sans+Condensed:300|Open+Sans:400,700');
-    wp_enqueue_style( 'googleFonts');
-}
+
+        wp_register_style('googleFontsArvo','http://fonts.googleapis.com/css?family=Arvo:400,700');
+        wp_enqueue_style( 'googleFontsArvo');
+
+        wp_register_style('googleFontsOpenSans','http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+        wp_enqueue_style( 'googleFontsOpenSans');
+
+        wp_register_style('googleFontsOpenSansCondensed','http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+        wp_enqueue_style( 'googleFontsOpenSansCondensed');
+    }
+
+    add_action('wp_print_styles', 'load_fonts');
 
 add_action('wp_print_styles', 'load_fonts');
