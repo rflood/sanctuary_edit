@@ -17,10 +17,11 @@ function RepositionNav(){var d=$(window).height();var c=$("#slide-nav").height()
 
 $(document).ready(function() {
     if ($("html").hasClass("no-touch")) {
-		$('#first').parallax("50%", 0, 0.1, true);
-		$('#second').parallax("50%", 1200, 0.1, true);
-		$('#third').parallax("50%", 3130, 0.1, true);
-		$('#fourth').parallax("50%", 5060, 0.1, true);
+		$('.group1').parallax("50%", 0, 0.1, true);
+		$('.group2').parallax("50%", 1200, 0.1, true);
+		$('.group3').parallax("50%", 3130, 0.1, true);
+		$('.group4').parallax("50%", 5060, 0.1, true);
+        $('.group5').parallax("50%", 6990, 0.1, true);
 		
 		var deck = new $.scrolldeck({
 			slides: '.slide',

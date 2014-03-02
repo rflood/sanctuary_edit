@@ -22,6 +22,7 @@ if( have_rows('home_page_section') ):
 
 
         ?>
+
         <section class="group group<?php echo $count; ?>">
             <div class="content">
                 <h1 class="upper-content"><?php echo $upper_content; ?></h1>
