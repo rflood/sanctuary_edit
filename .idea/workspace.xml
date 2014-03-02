@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9808d91-d0ae-4199-a627-1298a8fe2d25" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content-page.php" afterPath="$PROJECT_DIR$/content-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page.php" afterPath="$PROJECT_DIR$/home-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-page.php" afterPath="$PROJECT_DIR$/test-page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sanctuary.iws" />
@@ -11,7 +14,7 @@
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392371221351" ignored="false" />
     <file path="/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392370543845" ignored="false" />
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392306350042" ignored="false" />
-    <file path="/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393651369567" ignored="false" />
+    <file path="/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393724545061" ignored="false" />
     <file path="$USER_HOME$/Desktop/lesson_5_1_DEMO/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392359309464" ignored="false" />
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/functions.js" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392357851494" ignored="false" />
     <file path="$USER_HOME$/Desktop/lesson_5_1_DEMO/js/functions.js" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392360410303" ignored="false" />
@@ -21,10 +24,9 @@
     <file path="/header.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392464658553" ignored="false" />
     <file path="/content-single.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393135581026" ignored="false" />
     <file path="/content.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393135667189" ignored="false" />
-    <file path="/Dummy.txt" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393632922547" ignored="false" />
+    <file path="/Dummy.txt" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393723967262" ignored="false" />
     <file path="$PROJECT_DIR$/.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393202379445" ignored="false" />
-    <file path="$USER_HOME$/Downloads/sanctuarySite---Wordpress-master/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393641746553" ignored="false" />
-    <file path="/test-page.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393709548629" ignored="false" />
+    <file path="/test-page.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393724744822" ignored="false" />
     <file path="$USER_HOME$/Downloads/sanctuary-master 2/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393640670142" ignored="false" />
     <file path="/content-page.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393655544423" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +51,7 @@
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="-1.3469387">
+            <state line="17" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -58,7 +60,16 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="221" column="11" selection-start="4896" selection-end="4899" vertical-scroll-proportion="0.45217392">
+            <state line="412" column="1" selection-start="9748" selection-end="9748" vertical-scroll-proportion="0.6869565">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-page.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="952" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,7 +78,7 @@
       <file leaf-file-name="sidebar.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="-3.125">
+            <state line="9" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -76,7 +87,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="748" selection-end="748" vertical-scroll-proportion="-11.875">
+            <state line="15" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
@@ -85,7 +96,16 @@
       <file leaf-file-name="test-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="25" selection-start="567" selection-end="567" vertical-scroll-proportion="-12.666667">
+            <state line="26" column="22" selection-start="607" selection-end="608" vertical-scroll-proportion="-7.3469386">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,7 +114,7 @@
       <file leaf-file-name="content-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="27" selection-start="1651" selection-end="1651" vertical-scroll-proportion="-29.375">
+            <state line="51" column="27" selection-start="1651" selection-end="1651" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,16 +139,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/content-single.php" />
         <option value="$PROJECT_DIR$/content.php" />
-        <option value="$PROJECT_DIR$/page.php" />
         <option value="$PROJECT_DIR$/single.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/functions.php" />
-        <option value="$PROJECT_DIR$/home-page.php" />
         <option value="$PROJECT_DIR$/sidebar.php" />
         <option value="$PROJECT_DIR$/content-page.php" />
+        <option value="$PROJECT_DIR$/home-page.php" />
+        <option value="$PROJECT_DIR$/page.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/test-page.php" />
         <option value="$PROJECT_DIR$/style.css" />
       </list>
@@ -136,8 +156,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="72" />
+    <option name="x" value="43" />
+    <option name="y" value="104" />
     <option name="width" value="1397" />
     <option name="height" value="761" />
   </component>
@@ -167,7 +187,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,13 +221,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sanctuary-master 2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sanctuarySite---Wordpress-master" />
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -246,14 +266,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="72" width="1397" height="761" extended-state="0" />
+    <frame x="43" y="104" width="1397" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27165064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28053293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -329,11 +349,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/parallax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="44" selection-start="9984" selection-end="9988" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="40" selection-start="322" selection-end="322" vertical-scroll-proportion="-5.625" />
@@ -354,33 +369,21 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="0.36090225" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="706" selection-end="706" vertical-scroll-proportion="0.6104651" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="12" selection-start="245" selection-end="248" vertical-scroll-proportion="-2.142857">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="-1.3469387">
+        <state line="17" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="-3.125">
+        <state line="9" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -399,30 +402,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
+    <entry file="file://$PROJECT_DIR$/content-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="748" selection-end="748" vertical-scroll-proportion="-11.875">
+        <state line="51" column="27" selection-start="1651" selection-end="1651" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content-page.php">
+    <entry file="file://$PROJECT_DIR$/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="27" selection-start="1651" selection-end="1651" vertical-scroll-proportion="-29.375">
+        <state line="18" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="952" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/sanctuarySite---Wordpress-master/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="-5.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="25" selection-start="567" selection-end="567" vertical-scroll-proportion="-12.666667">
+        <state line="26" column="22" selection-start="607" selection-end="608" vertical-scroll-proportion="-7.3469386">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="221" column="11" selection-start="4896" selection-end="4899" vertical-scroll-proportion="0.45217392">
+        <state line="412" column="1" selection-start="9748" selection-end="9748" vertical-scroll-proportion="0.6869565">
           <folding />
         </state>
       </provider>

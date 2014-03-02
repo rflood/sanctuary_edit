@@ -135,7 +135,7 @@ textarea {
     font-weight: 400;
     font-size: 100%;
     font-size: 1.6rem;
-    line-height: 1.5;
+    /*line-height: 1.5;*/
 }
 h1, h2, h3, h4, h5, h6 {
 	clear: both;
@@ -160,8 +160,8 @@ pre {
 	font-family: "Courier 10 Pitch", Courier, monospace;
 	font-size: 15px;
 	font-size: 1.5rem;
-	line-height: 1.6;
-	margin-bottom: 1.6em;
+	/*line-height: 1.6;
+	margin-bottom: 1.6em;*/
 	max-width: 100%;
 	overflow: auto;
 	padding: 1.6em;
@@ -227,20 +227,6 @@ h2 {
     text-shadow:2px 2px 4px black;
 }
 
-.group1 h1 {
-    text-transform: uppercase;
-    position: relative;
-    top: 22em;
-    left: 67%;
-    z-index: 7;
-}
-
-.group1 h2 {
-    position: relative;
-    top: 13.9em;
-    left: 75.60167%;
-    z-index: 7;
-}
 
 /*--------------------------------------------------------------
 3.0 Elements
@@ -424,7 +410,7 @@ a:active {
     clear: both;
     display: block;
     width: 100%;
-    height: 100px;
+ 
 }
 .main-navigation ul {
     list-style: none;
@@ -674,12 +660,94 @@ a:active {
 /*--------------------------------------------------------------
 10.0 Content
 --------------------------------------------------------------*/
+.group {
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
 
 .backgroundImage img{
     width:100%;
     z-index: 0;
     top:0;
-    position:absolute;
+    position:relative;
+}
+
+.group1 .upper-content{
+    text-transform: uppercase;
+    position: absolute;
+    top: 23em;
+    left: 65%;
+    z-index: 7;
+}
+
+.group1 .lower-content {
+    position: absolute;
+    top: 15.6em;
+    left: 74.60167%;
+    z-index: 7;
+}
+
+.group2 .upper-content{
+    text-transform: uppercase;
+    position: absolute;
+    top: 21em;
+    left: 20%;
+    z-index: 7;
+}
+
+.group2 .lower-content {
+    position: absolute;
+    top: 14.2em;
+    left: 13.60167%;
+    z-index: 7;
+}
+
+.group3 .upper-content{
+    color: #000;
+    text-transform: uppercase;
+    position: absolute;
+    top: 25em;
+    left: 39%;
+    z-index: 7;
+}
+
+.group3 .lower-content {
+    color: #000;
+    position: absolute;
+    top: 17em;
+    left: 43.60167%;
+    z-index: 7;
+}
+
+.group4 .upper-content{
+    text-transform: uppercase;
+    position: absolute;
+    top: 21em;
+    left: 67%;
+    z-index: 7;
+}
+
+.group4 .lower-content {
+    position: absolute;
+    top: 14.2em;
+    left: 36%;
+    z-index: 7;
+}
+
+.group5 .upper-content{
+    text-transform: uppercase;
+    position: absolute;
+    top: 17em;
+    left: 7%;
+    z-index: 7;
+}
+
+.group5 .lower-content {
+    position: absolute;
+    top:  11.6em;
+    left: 5.6%;
+    z-index: 7;
 }
 
 /*--------------------------------------------------------------
@@ -723,6 +791,33 @@ a:active {
 	word-wrap: break-word;
 }
 .bypostauthor {
+}
+
+/*--------------------------------------------------------------
+10.4 Footer
+--------------------------------------------------------------*/
+.site-footer{
+    display: block;
+    background: #000;
+    position: fixed;
+    bottom:0;
+    padding: 16px 0 15px 481px;
+    margin-left: 0;
+    opacity: 0.6;
+    width: 100%;
+    z-index: 3;
+}
+
+.copyright {
+    float: left;
+    color: #fff;
+    font-size: 0.7em;
+    padding-top: 5.2em;
+    margin-left: 49.5%;
+}
+
+.copyright p {
+    margin-bottom: 0;
 }
 
 /*--------------------------------------------------------------

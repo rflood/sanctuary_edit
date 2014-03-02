@@ -6,33 +6,42 @@ Template Name: Test
 
 <?php get_header(); ?>
 
-    <section class="group1">
-        <div class="content">
-            <h1><?php the_field('upper_content'); ?></h1>
-            <h2><?php the_field('lower_content'); ?></h2>
-        </div>
+<?php
 
-        <div class="backgroundImage">
-            <?php if( get_field('background_image') ):?>
-                <img src="<?php the_field('background_image'); ?>" alt="" /> <?php
+// check if the repeater field has rows of data
+if( have_rows('home_page_section') ):
 
-            endif; ?>
-        </div>
-    </section>
+    // loop through the rows of data
+    $count = 1;
+    while ( have_rows('home_page_section') ) : the_row();
 
-    <section class="group2">
-        <div class="content">
-            <h1><?php the_field('upper_content'); ?></h1>
-            <h2><?php the_field('lower_content'); ?></h2>
-        </div>
+        // display a sub field value
+        $upper_content = get_sub_field('upper_content');
+        $lower_content = get_sub_field('lower_content');
+        $background_image = get_sub_field('background_image');
 
-        <div class="backgroundImage">
-            <?php if( get_field('background_image') ):?>
-                <img src="<?php the_field('background_image'); ?>" alt="" /> <?php
 
-            endif; ?>
-        </div>
-    </section>
+        ?>
+        <section class="group group<?php echo $count; ?>">
+            <div class="content">
+                <h1 class="upper-content"><?php echo $upper_content; ?></h1>
+                <h2 class="lower-content"><?php echo $lower_content; ?></h2>
+            </div>
+            <div class="backgroundImage">
+                <img src="<?php echo $background_image; ?>">
+            </div>
+        </section>
+        <?php $count++; ?>
+    <?php endwhile;
+else :
+
+    // no rows found
+
+endif;
+
+?>
+
+
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
