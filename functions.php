@@ -89,7 +89,7 @@ function sanctuary_scripts() {
 
     wp_enqueue_script( 'parallax', get_template_directory_uri() . '/js/parallax.js', array(), '1.0.0', true );
 
-    wp_enqueue_script( 'flexslider', get_template_directory_uri() . '/js/main.js', array(), '1.0.0', true );
+    wp_enqueue_script( 'jquery111', get_template_directory_uri() . '/js/main.js', array(), '1.0.0', true );
 
     wp_enqueue_script( 'flexslider', get_template_directory_uri() . '/js/jquery.flexslider.js', array(), '1.0.0', true );
 

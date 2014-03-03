@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9808d91-d0ae-4199-a627-1298a8fe2d25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/flexslider.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content-single.php" afterPath="$PROJECT_DIR$/content-single.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sanctuary.iws" />
@@ -13,7 +13,7 @@
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392371221351" ignored="false" />
     <file path="/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392370543845" ignored="false" />
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392306350042" ignored="false" />
-    <file path="/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393817309027" ignored="false" />
+    <file path="/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393824208220" ignored="false" />
     <file path="$USER_HOME$/Desktop/lesson_5_1_DEMO/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392359309464" ignored="false" />
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/functions.js" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392357851494" ignored="false" />
     <file path="$USER_HOME$/Desktop/lesson_5_1_DEMO/js/functions.js" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392360410303" ignored="false" />
@@ -21,7 +21,7 @@
     <file path="/functions.js" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392371180328" ignored="false" />
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/css/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392375995936" ignored="false" />
     <file path="/header.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392464658553" ignored="false" />
-    <file path="/content-single.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393790372552" ignored="false" />
+    <file path="/content-single.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393824486278" ignored="false" />
     <file path="/content.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393135667189" ignored="false" />
     <file path="/Dummy.txt" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393723967262" ignored="false" />
     <file path="$PROJECT_DIR$/.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393202379445" ignored="false" />
@@ -51,10 +51,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="919" column="17" selection-start="19419" selection-end="19419" vertical-scroll-proportion="-9.8">
+            <state line="809" column="0" selection-start="16897" selection-end="16897" vertical-scroll-proportion="0.45217392">
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="0" selection-start="3286" selection-end="3286" vertical-scroll-proportion="-2.6122448">
+            <state line="91" column="33" selection-start="3087" selection-end="3087" vertical-scroll-proportion="-3.5306122">
               <folding />
             </state>
           </provider>
@@ -90,7 +90,7 @@
       <file leaf-file-name="content-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="47" selection-start="919" selection-end="948" vertical-scroll-proportion="-15.541667">
+            <state line="32" column="50" selection-start="1088" selection-end="1138" vertical-scroll-proportion="-16.791666">
               <folding />
             </state>
           </provider>
@@ -105,10 +105,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-single.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="content-single.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content-single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="799" selection-end="1378" vertical-scroll-proportion="0.26041666">
+            <state line="39" column="0" selection-start="1255" selection-end="1255" vertical-scroll-proportion="-14.375">
               <folding />
             </state>
           </provider>
@@ -144,10 +144,10 @@
         <option value="$PROJECT_DIR$/cabins.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/img/flexslider.js" />
-        <option value="$PROJECT_DIR$/content-single.php" />
         <option value="$PROJECT_DIR$/js/flexslider.js" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/content-single.php" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -227,6 +227,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanctuary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sanctuary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PainterCabin-Images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -465,23 +483,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="919" column="17" selection-start="19419" selection-end="19419" vertical-scroll-proportion="-9.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="0" selection-start="3286" selection-end="3286" vertical-scroll-proportion="-2.6122448">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="47" selection-start="919" selection-end="948" vertical-scroll-proportion="-15.541667">
+        <state line="91" column="33" selection-start="3087" selection-end="3087" vertical-scroll-proportion="-3.5306122">
           <folding />
         </state>
       </provider>
@@ -493,9 +497,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="50" selection-start="1088" selection-end="1138" vertical-scroll-proportion="-16.791666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content-single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="799" selection-end="1378" vertical-scroll-proportion="0.26041666">
+        <state line="39" column="0" selection-start="1255" selection-end="1255" vertical-scroll-proportion="-14.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="809" column="0" selection-start="16897" selection-end="16897" vertical-scroll-proportion="0.45217392">
           <folding />
         </state>
       </provider>

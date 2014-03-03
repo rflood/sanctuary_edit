@@ -768,8 +768,18 @@ a:active {
     top: 15em;
 }
 
-#slider > ul > li:nth-child(1) > img {
-    width: 90%;
+#slider > div > ul > li:nth-child(2) > img{
+    width: 82%
+}
+
+#slider > div > ul > li:nth-child(3) > img{
+    width: 50%;
+    margin-left: 20%;
+}
+
+#slider > div > ul > li:nth-child(4) > img{
+    width: 50%;
+    margin-left: 20%;
 }
 
 #post-111 > header > h1{
@@ -787,6 +797,17 @@ a:active {
 #post-111 > footer > a {
     display: none;
 }
+
+.features-title {
+    font-weight: bold;
+}
+features-list {
+    color: black;
+}
+.emphasis {
+    color: lime;
+}
+
 /*--------------------------------------------------------------
 10.1 Posts and pages
 --------------------------------------------------------------*/

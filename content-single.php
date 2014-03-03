@@ -37,6 +37,7 @@
                                 <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
                                 <p class="flex-caption"><?php echo $image['caption']; ?></p>
                             </li>
+
                         <?php endforeach; ?>
                     </ul>
 
