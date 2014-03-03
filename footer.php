@@ -12,8 +12,13 @@
 
 <footer id="colophon" class="site-footer" role="contentinfo">
 
-    <div class="socialmedia">
-
+    <div class="social-media">
+        <ul>
+        <li><img src="wp-content/themes/sanctuary/img/social-media/tumblr.png" alt="tumblr icon"></li>
+        <li><img src="wp-content/themes/sanctuary/img/social-media/twitter.png" alt="twitter icon"></li>
+        <li><img src="wp-content/themes/sanctuary/img/social-media/pinterest.png" alt="pinterest icon"></li>
+        <li><img src="wp-content/themes/sanctuary/img/social-media/facebook.png" alt="facebook icon"></li>
+        </ul>
     </div>
 
     <div class="copyright">

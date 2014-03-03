@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c9808d91-d0ae-4199-a627-1298a8fe2d25" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content-single.php" afterPath="$PROJECT_DIR$/content-single.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.php" afterPath="$PROJECT_DIR$/single.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="sanctuary.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,7 +12,7 @@
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392371221351" ignored="false" />
     <file path="/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392370543845" ignored="false" />
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392306350042" ignored="false" />
-    <file path="/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393724545061" ignored="false" />
+    <file path="/style.css" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393794782844" ignored="false" />
     <file path="$USER_HOME$/Desktop/lesson_5_1_DEMO/index.html" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392359309464" ignored="false" />
     <file path="$USER_HOME$/Desktop/floodRich_CheckIn5-2/functions.js" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392357851494" ignored="false" />
     <file path="$USER_HOME$/Desktop/lesson_5_1_DEMO/js/functions.js" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1392360410303" ignored="false" />
@@ -30,6 +29,7 @@
     <file path="/content-page.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393655544423" ignored="false" />
     <file path="/functions.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393734766967" ignored="false" />
     <file path="/single.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393745458975" ignored="false" />
+    <file path="/footer.php" changelist="c9808d91-d0ae-4199-a627-1298a8fe2d25" time="1393794514706" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="675" column="0" selection-start="14817" selection-end="14824" vertical-scroll-proportion="-6.8">
+            <state line="532" column="12" selection-start="12059" selection-end="12059" vertical-scroll-proportion="-13.36">
               <folding />
             </state>
           </provider>
@@ -61,7 +61,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="-5.625">
+            <state line="22" column="0" selection-start="736" selection-end="736" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
@@ -70,7 +70,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="0" selection-start="4331" selection-end="4379" vertical-scroll-proportion="-21.795918">
+            <state line="139" column="0" selection-start="4331" selection-end="4379" vertical-scroll-proportion="-23.265306">
               <folding />
             </state>
           </provider>
@@ -122,19 +122,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-page.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="56" selection-start="550" selection-end="550" vertical-scroll-proportion="0.58225507">
+            <state line="25" column="56" selection-start="550" selection-end="550" vertical-scroll-proportion="-6.428571">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-single.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="content-single.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content-single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="14" selection-start="1709" selection-end="1709" vertical-scroll-proportion="-21.791666">
+            <state line="19" column="8" selection-start="407" selection-end="407" vertical-scroll-proportion="0.108499095">
               <folding />
             </state>
           </provider>
@@ -165,20 +165,20 @@
         <option value="$PROJECT_DIR$/content-page.php" />
         <option value="$PROJECT_DIR$/home-page.php" />
         <option value="$PROJECT_DIR$/page.php" />
-        <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/js/parallax.js" />
         <option value="$PROJECT_DIR$/test-page.php" />
         <option value="$PROJECT_DIR$/functions.php" />
         <option value="$PROJECT_DIR$/single.php" />
         <option value="$PROJECT_DIR$/content-single.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="105" />
+    <option name="x" value="55" />
+    <option name="y" value="47" />
     <option name="width" value="1397" />
     <option name="height" value="761" />
   </component>
@@ -236,7 +236,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,7 +287,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="105" width="1397" height="761" extended-state="0" />
+    <frame x="55" y="47" width="1397" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -413,20 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="675" column="0" selection-start="14817" selection-end="14824" vertical-scroll-proportion="-6.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/parallax.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="30" selection-start="10016" selection-end="10016" vertical-scroll-proportion="0.0">
@@ -451,9 +437,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
+    <entry file="file://$PROJECT_DIR$/content-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="0" selection-start="4331" selection-end="4379" vertical-scroll-proportion="-21.795918">
+        <state line="30" column="47" selection-start="919" selection-end="948" vertical-scroll-proportion="-15.541667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="56" selection-start="550" selection-end="550" vertical-scroll-proportion="-6.428571">
           <folding />
         </state>
       </provider>
@@ -465,23 +458,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content-page.php">
+    <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="47" selection-start="919" selection-end="948" vertical-scroll-proportion="-15.541667">
+        <state line="22" column="0" selection-start="736" selection-end="736" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="0" selection-start="4331" selection-end="4379" vertical-scroll-proportion="-23.265306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="532" column="12" selection-start="12059" selection-end="12059" vertical-scroll-proportion="-13.36">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content-single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="14" selection-start="1709" selection-end="1709" vertical-scroll-proportion="-21.791666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="56" selection-start="550" selection-end="550" vertical-scroll-proportion="0.58225507">
+        <state line="19" column="8" selection-start="407" selection-end="407" vertical-scroll-proportion="0.108499095">
           <folding />
         </state>
       </provider>

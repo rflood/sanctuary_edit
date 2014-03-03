@@ -14,13 +14,16 @@
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		/!-- <?php the_content(); ?> --/
 
+        <?php //the_content(); ?>
+
+        <?php
         $cabin_gallery = get_field('cabin_gallery');
-        $description = get_field('description);
+        $description = get_field('description');
         $art_making_features = get_field('art_making_features');
         $cabin_features = get_field('cabin_features');
         $price_range = get_field('price_range');
+        ?>
 
         <div class="cabin-gallery">
             <?php

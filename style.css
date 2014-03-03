@@ -530,7 +530,7 @@ a:active {
     color: #FFF;
     z-index: 4;
     position: fixed;
-    top: 0.4em;
+    top: 0.56em;
     left: 0%;
     z-index: 4;
     opacity: none;
@@ -801,7 +801,7 @@ a:active {
     background: #000;
     position: fixed;
     bottom:0;
-    padding: 16px 0 15px 481px;
+    padding: 16px 0 1px 0px;
     margin-left: 0;
     opacity: 0.6;
     width: 100%;
@@ -813,11 +813,24 @@ a:active {
     color: #fff;
     font-size: 0.7em;
     padding-top: 5.2em;
-    margin-left: 49.5%;
+    margin-left: 82.5%;
 }
 
 .copyright p {
     margin-bottom: 0;
+}
+
+.social-media {
+    position: absolute;
+}
+
+.social-media ul{
+    float: left;
+    list-style-type: none;
+}
+
+.social-media ul li{
+    display: inline;
 }
 
 /*--------------------------------------------------------------
