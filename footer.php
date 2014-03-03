@@ -14,10 +14,10 @@
 
     <div class="social-media">
         <ul>
-        <li><img src="wp-content/themes/sanctuary/img/social-media/tumblr.png" alt="tumblr icon"></li>
-        <li><img src="wp-content/themes/sanctuary/img/social-media/twitter.png" alt="twitter icon"></li>
-        <li><img src="wp-content/themes/sanctuary/img/social-media/pinterest.png" alt="pinterest icon"></li>
-        <li><img src="wp-content/themes/sanctuary/img/social-media/facebook.png" alt="facebook icon"></li>
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/social-media/tumblr.png" alt="tumblr icon"</li>
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/social-media/twitter.png" alt="twitter icon"></li>
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/social-media/pinterest.png" alt="pinterest icon"></li>
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/social-media/facebook.png" alt="facebook icon"></li>
         </ul>
     </div>
 

@@ -15,7 +15,7 @@
 
 	<div class="entry-content">
 
-        <?php //the_content(); ?>
+        <?php the_content(); ?>
 
         <?php
         $cabin_gallery = get_field('cabin_gallery');
@@ -39,9 +39,11 @@
                             </li>
                         <?php endforeach; ?>
                     </ul>
+
                 </div>
 
             <?php endif; ?>
+
         </div>
         <div class="cabin-content">
             <p class="description"><?php echo $description; ?></p>
