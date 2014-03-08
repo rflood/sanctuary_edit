@@ -25,6 +25,7 @@
         $price_range = get_field('price_range');
         ?>
 
+<div class="wrapper">
         <div class="cabin-gallery">
             <?php
             $images = get_field('cabin_gallery');
@@ -51,6 +52,7 @@
             <p class="art-making-features"><?php echo $art_making_features; ?></p>
             <p class="cabin-features"><?php echo $cabin_features; ?></p>
             <p class="price-range"><?php echo $price_range; ?></p>
+            <button type="button">check availability</button>
         </div>
 
 
@@ -60,6 +62,7 @@
 				'after'  => '</div>',
 			) );
 		?>
+</div>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-meta">
